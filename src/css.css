@@ -1,0 +1,50 @@
+@font-face {
+    font-family: geomotos;
+    src: url(Geometos.ttf);
+}
+
+.geomotos{
+    font-family: geomotos;
+}
+
+@font-face {
+    font-family: tommy;
+    src: url(MADE\ TOMMY\ Medium_PERSONAL\ USE.otf);
+}
+
+.tommy{
+    font-family: tommy;
+}
+
+@font-face {
+    font-family: louis;
+    src: url(Louis\ George\ Cafe.ttf);
+}
+
+.louis{
+    font-family: louis;
+}
+
+@font-face {
+    font-family: keepcal;
+    src: url(KeepCalm-Medium.ttf);
+}
+
+.keepcalm{
+    font-family: keepcalm;
+}
+
+/* PROGEAR */
+
+position: absolute;
+width: 1690px;
+height: 312px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 321px;
+line-height: 391px;
+
+color: rgba(207, 54, 69, 0.1);
+
