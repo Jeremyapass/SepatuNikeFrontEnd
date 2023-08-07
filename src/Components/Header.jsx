@@ -1,8 +1,6 @@
 import React from "react";
 import cart from "../Gambar/shopping_cart.png"
-import progearheader from "../Gambar/progearheader.png"
 import garistiga from "../Gambar/GARIS 3.png";
-import tulisankecil from "../Gambar/TulisankecilHeader.png";
 import elips from "../Gambar/Ellipse.png"
 import "../css.css"
 
