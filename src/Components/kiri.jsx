@@ -5,6 +5,7 @@ import bintang from "../Gambar/bintang.png"
 
 const Kiri = () =>{
     return(
+        <>
         <div className=" absolute col-start-2 z-30 row-start-2">
             <div className=" ml-3 -mt-9  z-10 col-start-2 row-start-2 h">
                 <p className=" from-[#CF3645] to-[#86151F] font-extrabold text-[85px] bg-clip-text text-transparent bg-gradient-to-r tommy ">Nike Phantom</p>
@@ -24,6 +25,7 @@ const Kiri = () =>{
                 <button className="text-[#CF3645] geomotos text-[11px] ease-in-out duration-300 hover:scale-110 w-[65px] hover:bg-[#CF3645] rounded hover:text-[#F6F6F6]">DELIVERY</button>
             </div>
         </div>
+        </>
     )
 }
 
