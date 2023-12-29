@@ -4,7 +4,7 @@ import bintang from "../Gambar/bintang.png";
 const Kiri = () => {
   return (
     <div className="absolute col-start-2 z-30 row-start-2">
-      <div className=" ml-3 -mt-9  z-10 col-start-2 row-start-2 h">
+      <div className="ml-3 -mt-9  z-10 col-start-2 row-start-2 h">
         <p className=" from-[#CF3645] to-[#86151F] font-extrabold text-[85px] bg-clip-text text-transparent bg-gradient-to-r tommy ">
           Nike Phantom
         </p>
