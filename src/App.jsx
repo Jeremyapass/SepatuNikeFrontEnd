@@ -5,7 +5,7 @@ import Kanan from "./Components/Kanan";
 import sepatubesar from "./Gambar/sepatubesar.jpg";
 import PROGEAR from "./Gambar/PROGEAR.png"
 import "./css.css";
-import Bawah from "./Components/bawah";
+import Bawah from "./Components/Bawah";
 
 function App() {
   return (
