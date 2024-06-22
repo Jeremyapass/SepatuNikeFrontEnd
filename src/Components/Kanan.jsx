@@ -42,7 +42,7 @@ const [jumlah, setJumlah] = useState(0);
                 <button className="mr-5 cursor-pointer  ease-in-out duration-300 hover:scale-110 ">42,5</button>
                 <button className="mr-6 cursor-pointer  ease-in-out duration-300 hover:scale-110 ">43</button>
                 <button className="mr-6 cursor-pointer  ease-in-out duration-300 hover:scale-110 ">43,5</button>
-                <button className="mr-5 cursor-pointer  ease-in-out duration-300 hover:scale-110 ">44</button>
+                <button className="mr-5 cursor-pointer  ease-in-out duration-300 hover:scale-110 ">45</button>
             </div>
 
             <div className="z-30 grid grid-cols-[50%_50%] mt-4">
